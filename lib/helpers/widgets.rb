@@ -101,7 +101,7 @@ module EcoAppsSupport
           sorter.currentid = "";
           sorter.limitid = "pagelimit";
           sorter.init("#{table_id}",1);}
-      javascipt_tag script
+      javascript_tag script
     end
 
     def calendar_view(options = {}, &block)
