@@ -16,8 +16,8 @@
 
 table.list_table { margin-bottom: 1em; width: 100%; border-collapse: collapse; empty-cells: show; }
 table.list_table th { font-weight: bold; padding: 5px 15px 5px 5px; border: 1px solid #d0d6ec; }
-table.list_table th.asc { background: #577bbf url(../images/idp_views/arrow_down.gif) no-repeat right; }
-table.list_table th.desc { background: #577bbf url(../images/idp_views/arrow_up.gif) no-repeat right; }
+table.list_table th.asc { background: #577bbf url(../images/table_sorter/asc.gif) no-repeat right; }
+table.list_table th.desc { background: #577bbf url(../images/table_sorter/asc.gif) no-repeat right; }
 table.list_table th a { color: #fff; text-decoration: underline; }
 table.list_table thead th {background: #E6EDFF; color: #555;}
 table.list_table th, table.list_table td, table.list_table caption { padding: 5px 4px; }
